@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Parcial 3.1</string>
+        <string name="TEXTO1">ID</string>
+        <string name="TEXTO2">MATRICULA </string>
+        <string name="TEXTO3">APELLIDO</string>
+        <string name="TEXTO4">NOMBRE</string>
+        <string name="BOTON1">BUSCAR</string>
+        <string name="BOTON2">GUARDAR</string>
+        <string name="BOTON3">MODIFICAR</string>
+        <string name="BOTON4">EXTRA</string>
+
+
+
+</resources>
